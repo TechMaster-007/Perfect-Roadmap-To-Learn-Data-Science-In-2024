@@ -99,7 +99,7 @@ https://docs.python.org/release/3.12.0/
 1. End To End ML Projects Playlist In English: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=S_F_c9e2bz4&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG&index=1)
 2. End To End ML Playlist In Hindi: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=NuwUnRpxq2c&list=PLTDARY42LDV7jzL_f68SY-eOQ9tY2lYvR)
 
-### Machine Learning, Deep Learning, and NLP Projects
+### Machine Learning, Deep Learning, and NLP Projects ( refer linkedin projects for people of your targetted company)
 
 1. **First End-To-End ML Project for Starters [Student Performance Prediction]**  [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=Rv6UFGNmNZg&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG&index=2)
 
